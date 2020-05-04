@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stressed Out", "Stressed Out\Stressed Out.csproj", "{A24A193D-1D88-4759-A0A1-1FAFA41FF82C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A24A193D-1D88-4759-A0A1-1FAFA41FF82C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A24A193D-1D88-4759-A0A1-1FAFA41FF82C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A24A193D-1D88-4759-A0A1-1FAFA41FF82C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A24A193D-1D88-4759-A0A1-1FAFA41FF82C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {064FFF16-BEAC-4347-92E6-93C612633105}
+	EndGlobalSection
+EndGlobal
